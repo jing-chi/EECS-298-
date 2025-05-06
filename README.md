@@ -33,5 +33,4 @@ Suitable for more powerful forecasts but needs internet and a server backend.
 Option C: Fetch Weather Predictions
 Device directly accesses weather APIs (like OpenWeatherMap) to show near-term forecasts.
 
-Less "embedded intelligence" but practical for basic prediction use.
 

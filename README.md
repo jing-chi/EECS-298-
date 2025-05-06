@@ -7,7 +7,7 @@ Microcontroller or SBC (Single Board Computer):
 
 Examples: Raspberry Pi, ESP32, Arduino + Wi-Fi module.
 
-Sensors (for local weather data):
+Sensors (for local weather data): YL-83 DC Sensors
 
 Temperature/Humidity: DHT11, DHT22, or BME280.
 

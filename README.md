@@ -34,3 +34,19 @@ Option C: Fetch Weather Predictions
 Device directly accesses weather APIs (like OpenWeatherMap) to show near-term forecasts.
 
 
+# Report 
+For system building projects:
+
+Introduction
+
+Background
+
+Problem Statement
+
+Details of the System
+
+Main Results
+
+Future Work
+
+Conclusions
